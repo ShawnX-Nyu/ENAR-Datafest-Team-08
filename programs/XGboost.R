@@ -42,9 +42,9 @@ params <- list(
 xgb_model <- xgb.train(
   params = params,
   data = dtrain,
-  nrounds = 1500,                     # 训练轮数
+  nrounds = 1500,                     # 
   watchlist = list(train = dtrain, test = dtest),
-  early_stopping_rounds = 60           # 停止
+  early_stopping_rounds = 60           # 
 )
 
 importance_matrix <- xgb.importance(feature_names = colnames(X_train), model = xgb_model)
