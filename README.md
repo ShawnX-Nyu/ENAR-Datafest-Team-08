@@ -1,6 +1,6 @@
 # ENAR-Datafest-Team-08
 
-Welcome to our repository where we store code for the **ENAR DataFest**.
+Welcome to our repository where we store code and figures for the **ENAR DataFest**.
 
 ## The question
 
