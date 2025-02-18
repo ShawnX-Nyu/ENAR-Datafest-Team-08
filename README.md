@@ -4,7 +4,7 @@ Welcome to our repository where we store code for the **ENAR DataFest**.
 
 ## The question
 
-Controlling blood pressure (BP) reduces the risk for cardiovascular disease. However, the prevalence of BP control (i.e., systolic BP > 140 and diastolic BP > 90) among US adults with hypertension has been declining in the past two decades from 1999 - 2020. From the NHANES data, we aim to find the importance factors that related with risk of hypertension, and whether the relationships 
+Controlling blood pressure (BP) reduces the risk for cardiovascular disease. However, the prevalence of BP control (i.e., systolic BP > 140 and diastolic BP > 90) among US adults with hypertension has been declining in the past two decades from 1999 - 2020. From the NHANES data, we aim to find the importance factors that related with risk of hypertension, and whether the influencial factors differs across different age groups
 
 ## The objectives
 
